@@ -33,3 +33,4 @@ password : admin@1234
 email : user@gmail.com
 
 password : user@1234
+* You can also go to User Registration Form and register yourself as a user.
