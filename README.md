@@ -16,3 +16,20 @@
 
 ## High-level architecture of the application
 ![Arc](https://user-images.githubusercontent.com/64209503/94375941-d34e8e00-0134-11eb-987e-6ceb213d26ec.png)
+
+## How to run the website in localhost in XAMPP server?
+* Go to XAMPP Control Panel 
+* Click on Apache and MySQL start buttons
+* Enter localhost/DL on chrome
+
+## Login and password details
+* Admin Login Form :
+
+email : admin@gmail.com
+
+password : admin@1234
+* User Login Form :
+
+email : user@gmail.com
+
+password : user@1234
